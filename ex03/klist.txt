@@ -1,0 +1,6 @@
+Credentials cache: API:F35B9317-797B-4F8B-B396-ADCD72669599
+        Principal: suno@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 24 16:37:50 2022  Aug 25 02:37:50 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
+
